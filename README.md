@@ -1,18 +1,14 @@
-# WEATHER
+# SpaceX 
+## Clone page created in React
 
-### [https://robzuk.github.io/weather-react/](https://robzuk.github.io/weather-react/)
+### [https://robzuk.github.io/spaceX-react/](https://robzuk.github.io/spaceX-react/)
 
-![image](https://user-images.githubusercontent.com/40764780/179729623-a11bf423-cb9f-42f8-a338-68b520a5f2e5.png)
+![spaceX](https://user-images.githubusercontent.com/40764780/192281363-39a954ba-8d03-4694-9eb1-11fdf700d7d9.png)
 
 ### Technologies
 
-- React
-- Bootstrap 5
-
-### Features
-
-- Current and Forecast weather in searched cities
-- Geolocation
+- React 18
+- React Router 6
 
 ### Install Dependencies
 
