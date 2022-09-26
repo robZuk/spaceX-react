@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spaceX-react/static/css/main.9f21a588.css",
-    "main.js": "/spaceX-react/static/js/main.b2966529.js",
+    "main.js": "/spaceX-react/static/js/main.bfe76efa.js",
     "static/js/787.28cb0dcd.chunk.js": "/spaceX-react/static/js/787.28cb0dcd.chunk.js",
     "static/media/falcon-heavy.webp": "/spaceX-react/static/media/falcon-heavy.c1cf29d6314c44c66c74.webp",
     "static/media/falcon-9.webp": "/spaceX-react/static/media/falcon-9.0f46fac31c34a50fea6a.webp",
@@ -15,11 +15,11 @@
     "static/media/section-b.webp": "/spaceX-react/static/media/section-b.3fd9e46ee6e4371f430d.webp",
     "index.html": "/spaceX-react/index.html",
     "main.9f21a588.css.map": "/spaceX-react/static/css/main.9f21a588.css.map",
-    "main.b2966529.js.map": "/spaceX-react/static/js/main.b2966529.js.map",
+    "main.bfe76efa.js.map": "/spaceX-react/static/js/main.bfe76efa.js.map",
     "787.28cb0dcd.chunk.js.map": "/spaceX-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f21a588.css",
-    "static/js/main.b2966529.js"
+    "static/js/main.bfe76efa.js"
   ]
 }
